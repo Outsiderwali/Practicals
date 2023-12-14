@@ -1,4 +1,2 @@
-bit.ly/bcapracticals
-
-
+https://bit.ly/bcapracticals
 
